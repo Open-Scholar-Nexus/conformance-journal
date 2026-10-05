@@ -8,7 +8,7 @@
 - id: fixture-2026-interim-paper
   slug: fixture-interim-paper
   location:
-    repo: pollomarzo/fixture-paper-repo
+    repo: Open-Scholar-Nexus/conformance-paper
     path: .
   edition: fixture-edition
   # doi absent until deposited
